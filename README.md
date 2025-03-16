@@ -1,3 +1,4 @@
 # Demo
-This is my first github respository.
-Author- Gandhi yesh
+This is my first GitHub repository.
+<br>
+Author- Gandhi Yesha
